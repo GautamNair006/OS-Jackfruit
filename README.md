@@ -152,6 +152,48 @@ sudo dmesg -w
 ---
 
 ## 📸 Output
+### Task 1
+
+![Task-1](screenshots/Task_1.png)
+
+Two containers running under one supervisor.
+
+### Task 2
+
+![Task-2](screenshots/Task_2.png)
+
+Output of engine ps showing container metadata.
+
+
+### Task 3
+
+![Task-3](screenshots/Task_3.png)
+
+Log file contents captured via logging pipeline.
+
+### Task 4
+
+![Task-4](screenshots/Task_4.png)
+
+CLI command issued and supervisor response.
+
+### Task 5
+![Task-5](screenshots/Task_5.png)
+
+dmesg output showing soft-limit warning.
+
+
+### Task 6
+
+![Task-6](screenshots/Task_6.png)
+
+dmesg output showing container killed, plus ps state.
+
+### Task 7
+
+![Task-7](screenshots/Task_7.png)
+
+Supervisor exit, containers stopped, module unloaded.
 
 ---
 
